@@ -4,7 +4,7 @@
 
 ### 1. Project description
 
-This project is to prepare a report for a bank’s loan division. I need to find out if a customer’s marital status and number of children has an impact on whether they will default on a loan. If you want to see the code right away, click [link to the project code!](https://github.com/Herimitsinjo/data-analysis-porfolio1/blob/main/Analysis%20and%20identification%20of%20the%20creditworthy%20clients.ipynb)
+This project is to prepare a report for a bank’s loan division. I need to find out if a customer’s marital status and number of children has an impact on whether they will default on a loan. If you want to see the project code now, click [link to the project code!](https://github.com/Herimitsinjo/data-analysis-porfolio1/blob/main/Analysis%20and%20identification%20of%20the%20creditworthy%20clients.ipynb)
 
 The bank already has some data on customers’ credit worthiness. This report will be considered when building a credit scoring of a potential customer. A credit scoring is used to evaluate the ability of a potential
 borrower to repay their loan.
